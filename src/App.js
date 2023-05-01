@@ -7,6 +7,7 @@ function App() {
     <h1>hello</h1>
     {/* <Counting/> */}
     <Main/>
+    <h1>hello to welcome my friend</h1>
 
 
     
